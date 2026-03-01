@@ -292,24 +292,12 @@
     "name": "Nebula",
     "brand": "XREAL",
     "version": "Latest",
-    "description": "XREAL早期空间多屏软件，支持Mac/Windows/安卓",
-    "downloadUrl": "https://www.xreal.com/",
-    "panUrl": "https://pan.quark.cn/s/bd5a6ac096d6",
-    "source": "官网",
-    "tags": ["空间多屏", "Nebula"],
-    "updateDate": "2026-01-17"
-  },
-  {
-    "id": "xreal-nebula-android",
-    "name": "Nebula安卓版",
-    "brand": "XREAL",
-    "version": "Latest",
-    "description": "XREAL Nebula安卓空间应用",
+    "description": "XREAL空间多屏软件，支持Mac/Windows/安卓",
     "downloadUrl": "https://www.xreal.com/",
     "panUrl": "https://pan.quark.cn/s/94b71f8a7560",
     "source": "官网",
-    "tags": ["空间多屏", "安卓"],
-    "updateDate": "2026-01-17"
+    "tags": ["空间多屏", "Nebula"],
+    "updateDate": "2026-03-01"
   },
   {
     "id": "xreal-beam-pro",
